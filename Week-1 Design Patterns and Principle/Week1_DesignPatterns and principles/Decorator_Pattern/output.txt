@@ -1,3 +1,0 @@
-Sending Email: Decorator pattern test message.
-Sending SMS: Decorator pattern test message.
-Sending Slack Message: Decorator pattern test message.
