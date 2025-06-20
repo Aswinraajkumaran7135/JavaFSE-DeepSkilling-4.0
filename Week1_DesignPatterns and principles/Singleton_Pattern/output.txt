@@ -1,4 +1,0 @@
-Logger created
-Log: First message
-Log: Second message
-Only one Logger instance is used.
