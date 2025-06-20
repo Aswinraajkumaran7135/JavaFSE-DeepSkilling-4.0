@@ -1,0 +1,11 @@
+Basic PC Specs:
+CPU: Intel i3
+RAM: 4GB
+Storage: null
+Graphics Card: null
+
+Gaming PC Specs:
+CPU: Intel i7
+RAM: 16GB
+Storage: 1TB SSD
+Graphics Card: NVIDIA RTX 3060
